@@ -1,0 +1,9 @@
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.csproj.GenerateResource.cache
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.csproj.CoreCompileInputs.cache
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.Form1.resources
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\bin\Debug\SelviGultaslarProject.exe.config
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\bin\Debug\SelviGultaslarProject.exe
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\bin\Debug\SelviGultaslarProject.pdb
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.Properties.Resources.resources
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.exe
+C:\Users\ebru.seckin\Downloads\SelviGultaslarProject\SelviGultaslarProject\obj\Debug\SelviGultaslarProject.pdb
