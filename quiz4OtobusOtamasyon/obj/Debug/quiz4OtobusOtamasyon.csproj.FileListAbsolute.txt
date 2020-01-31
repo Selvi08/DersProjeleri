@@ -1,0 +1,12 @@
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.exe.config
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.exe
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.pdb
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.exe
+D:\Program Files (x86)\Visual Studio Programlar\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.pdb
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.exe.config
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.exe
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\bin\Debug\quiz4OtobusOtamasyon.pdb
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.exe
+C:\Users\yusuf\Desktop\quiz4OtobusOtamasyon (2)\quiz4OtobusOtamasyon\quiz4OtobusOtamasyon\obj\Debug\quiz4OtobusOtamasyon.pdb
