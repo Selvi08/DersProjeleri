@@ -1,0 +1,2 @@
+//	sprintf(queryNereden, "INSERT INTO tblLine (lineNo,lineName) VALUES  (%s,%s)",nameNereden,nameNereye);
+	//	printf("%s",queryNereden);

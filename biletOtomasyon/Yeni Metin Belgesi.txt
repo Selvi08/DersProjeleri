@@ -1,0 +1,53 @@
+ userNameText = ui->txtUserName->text();
+    passwordText = ui->txtPassword->text();
+
+    QString strSql = "SELECT userName,password FROM tableLogin";
+
+
+
+    //QString convert to Char*
+    QByteArray ba = strSql.toLocal8Bit();
+    char* charSql = ba.data();
+    qDebug() << charSql <<"\n";
+
+    sql = charSql;
+
+    //Prepare query.
+    rc = sqlite3_prepare_v2(db, sql, -1, &res, 0);
+
+    //check if sql is prepared.
+    if(rc == SQLITE_OK)
+    {
+        sql = charSql;
+        rc = sqlite3_prepare_v2(db, sql, -1, &res, 0);
+        if(rc == SQLITE_OK)
+        {
+            //Get the step.
+            rc = sqlite3_step(res);
+            //Check if step is a row.
+            while(rc == SQLITE_ROW)
+            {
+                //Copy sqlite step values.
+                strcpy(userName, (char *)sqlite3_column_text(res, 0));
+                strcpy(userPass, (char *)sqlite3_column_text(res, 1));
+
+                //Get the  step.
+                rc = sqlite3_step(res);
+                qDebug()<<"NAME: "<<userName<<"\n";
+                qDebug()<<"ID: "<<userPass<<"\n";
+            }
+        }
+        else if(rc != SQLITE_OK )
+        {
+            qDebug()<<errmsg;
+        }
+    }
+    else
+    {
+        qDebug()<<errmsg;
+    }
+
+    //Free resource.
+    sqlite3_finalize(res);
+
+    sqlite3_free(errmsg);
